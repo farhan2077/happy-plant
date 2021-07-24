@@ -1,0 +1,20 @@
+# Dependency directories
+node_modules
+
+# environment variables file
+.env
+.env.test
+
+# yarn v2
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+
+# database
+db.sqlite
+
+tsconfig.tsbuildinfo
+
+build
