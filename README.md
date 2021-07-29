@@ -13,15 +13,7 @@
 
 </div>
 
-## Setup
-
-### Prerequisites
-
-Check out each individual folders for detailed requirements.
-
-### How to run
-
-Check out each individual folders for detailed setup process.
+## Installation & setup
 
 1. Download or clone the repository.
 
@@ -29,12 +21,14 @@ Check out each individual folders for detailed setup process.
 git clone https://github.com/farhan2077/happy-plant.git
 ```
 
-2. Deploy `backend` and `frontend`. While deploying `frontned` make sure to add your `.env` file similar to [`.env.example`](https://github.com/farhan2077/happy-plant/blob/main/frontend/.env.example).
+2. Check out all individual folders' ( [frontend](https://github.com/farhan2077/happy-plant/blob/main/frontend), [backend](https://github.com/farhan2077/happy-plant/blob/main/backend), [arduino-section](https://github.com/farhan2077/happy-plant/blob/main/microcontroller/arduino-section), [esp8266-section](https://github.com/farhan2077/happy-plant/blob/main/microcontroller/esp8266-section) ) individual setup processes first.
 
-3. The microcontroller folder has two seperate folders for two different microcontrollers. Each of them has their own schematics (which can be found in the folders). Connect all the required hardwares according to the schematics.
+3. Then deploy `backend` and `frontend`. While deploying `frontned` make sure to add your `.env` file similar to [`.env.example`](https://github.com/farhan2077/happy-plant/blob/main/frontend/.env.example).
 
-4. Now burn the code from `arduino-section-code` folder to `Arduino Uno`.
-5. Before you burn the code from `wifi-module-section-code` folder to `NodeMCU EXP8266` make sure to chenge the following `constants`.
+4. The microcontroller folder has two seperate folders for two different microcontrollers. Each of them has their own schematics (which can be found in the folders). Connect all the required hardwares according to the schematics.
+
+5. Now burn the code from `arduino-section-code` folder to `Arduino Uno`.
+6. Before you burn the code from `esp8266-section-code` folder to `NodeMCU EXP8266` make sure to chenge the following `constants`.
 
 ```c
 const char* ssid = "YOUR_WIFI_SSID";
@@ -42,7 +36,7 @@ const char* password = "YOUR_WIFI_PASSWORD";
 const char* apiUrl = "YOUR_BACKEND_API_URL";
 ```
 
-NOTE: Here in case of `apiUrl`, remove the `s` from the url of the `https` part and add `/api/v1/plants` at the end of the `backend url` (Ex: Let's say your `backend url` is `https://example.com`, so your `apiUrl` will be `http://example.com/api/v1/plants`).
+_NOTE: Here in case of `apiUrl`, remove the `s` from the url of the `https` part and add `/api/v1/plants` at the end of the `backend url` (Ex: Let's say your `backend url` is `https://example.com`, so your `apiUrl` will be `http://example.com/api/v1/plants`)._
 
 ## Contribute
 

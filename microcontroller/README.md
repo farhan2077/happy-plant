@@ -4,10 +4,4 @@
 
 ## Setup
 
-### Prerequisites
-
-Basic knowledge of programming and electronics related to microncontrollers.
-
-### How to set up
-
-All the connection diagrams and sketches necessary to run the project have been provided. Once you have managed everything, see this [`README.md`](https://github.com/farhan2077/happy-plant/blob/main/README.md) to finalize the setup and run the programs.
+Microcontroller part has two setup processes. Sketches and schematics for `Arduino` can be found in [arduino-section](https://github.com/farhan2077/happy-plant/blob/main/microcontroller/arduino-section) folder and for `NodeMCU ESP8266`, they can be found in [wifi-module-section](https://github.com/farhan2077/happy-plant/blob/main/microcontroller/wifi-module-section) folder.
