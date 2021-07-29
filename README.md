@@ -9,7 +9,7 @@
 <div align="center">
     <h1>Happy Plant</h1>
 
-<strong>A project using microcontroller and web technologies to make sure your plants are always happy</strong>
+<strong>A project using microcontroller and web technologies to keep your plants happy</strong>
 
 </div>
 
@@ -50,4 +50,4 @@ Any pull requests are welcome.
 
 ## License
 
-Everything is free to use except for the logo inspired by [this dribble](https://dribbble.com/shots/2057485-Smiley) and illustrations inspired by [adobe stock](https://stock.adobe.com/images/cute-sad-wilted-plant-in-a-pot-stages-of-withering-abandoned-and-scared-houseplant-without-watering-and-care-potted-plant-dying-vector-illustration/356342166) used in `frontend`. I do not own any kind of rights to those logo or illustrations.
+Everything is free to use except for the logo inspired by [this dribble](https://dribbble.com/shots/2057485-Smiley) and illustrations inspired by [this adobe stock photo](https://stock.adobe.com/images/cute-sad-wilted-plant-in-a-pot-stages-of-withering-abandoned-and-scared-houseplant-without-watering-and-care-potted-plant-dying-vector-illustration/356342166) used in `frontend`. I do not own any kind of rights to those logo or illustrations.
