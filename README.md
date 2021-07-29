@@ -4,8 +4,6 @@
 <img height="150px" width="auto" src="https://raw.githubusercontent.com/farhan2077/happy-plant/main/happy-plant-logo.svg"/>
 </p>
 
-<br/>
-
 <div align="center">
     <h1>Happy Plant</h1>
 
