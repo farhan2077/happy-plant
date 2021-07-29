@@ -16,6 +16,6 @@ C:\Program Files (x86)\Arduino\libraries
 
 _NOTE: This locaton is only applicable for `windows` file system. For `mac` or `linux`, it will be different._
 
-4. Select your Ex: `Arduino Uno` as your `Board` and `Port` from the `Tools` bar.
+4. Again from `Tools` menubar, select `Arduino Uno` from `Board` and the right `Port`.
 
 5. Now you are all set up and good to go!
