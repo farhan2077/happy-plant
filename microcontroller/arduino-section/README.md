@@ -16,6 +16,9 @@ C:\Program Files (x86)\Arduino\libraries
 
 _NOTE: This locaton is only applicable for `windows` file system. For `mac` or `linux`, it will be different._
 
-4. Again from `Tools` menubar, select `Arduino Uno` from `Board` and the right `Port`.
+4. Connect `Arduino` with the necessary hardwares like the following schematics
+   ![arduino-section-schematic](./arduino-section.png)
 
-5. Now you are all set up and good to go!
+5. Again from `Tools` menubar, select `Arduino Uno` from `Board` and the right `Port`.
+
+6. Now you are all set up and good to go!

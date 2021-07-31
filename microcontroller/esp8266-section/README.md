@@ -8,6 +8,9 @@
 
 2. Again from the menu bar, go to `File > Preferences`. Now in the preferences window, input `https://arduino.esp8266.com/stable/package_esp8266com_index.json` in the `Additional Boards Manager URLs` placeholder.
 
-3. Again from `Tools` menubar, select `NodeMCU 1.0 (ESP-12E Module)` from `Board` and the right `Port`.
+3. Connect `ESP8266` with the necessary hardwares like the following schematics
+   ![esp8266-section-schematic](./esp8266-section.png)
 
-4. Now you are all set up and good to go!
+4. Again from `Tools` menubar, select `NodeMCU 1.0 (ESP-12E Module)` from `Board` and the right `Port`.
+
+5. Now you are all set up and good to go!
