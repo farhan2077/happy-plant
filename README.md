@@ -9,6 +9,10 @@
 
 <strong>A project using microcontroller and web technologies to keep your plants happy</strong>
 
+<a href="https://youtu.be/B50k5Roc7sE">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+</a>
+
 </div>
 
 ## Installation & setup
